@@ -1,5 +1,4 @@
 # rickmortyvue
-<<<<<<< HEAD
 Small VUEJS Project that use local storage Login - Register and Show Cards with information via public json placeholder api
 =======
 
@@ -22,7 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 513b758 (init)
